@@ -37,7 +37,8 @@ const styles = StyleSheet.create({
     image: {
         width: 60,
         height: 60,
-        resizeMode: 'contain'
+        resizeMode: 'contain',
+        marginVertical: 7
     }
 })
 export default Header
